@@ -11,7 +11,7 @@
 
 ---
 
-## 👁️ | Components
+## 🎨 | Themes
 
 <details>
   <summary><strong>🌊 Kanagawa Wave</strong></summary>
