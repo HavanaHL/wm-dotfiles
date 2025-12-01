@@ -1,0 +1,59 @@
+* {
+  border: none;
+  border-radius: 0px;
+  font-family: VictorMono Nerd Font;
+  font-size: 15px;
+  min-height: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* Fundo e texto principais - Kanagawa */
+window#waybar {
+  background: @theme_bg_color; /* gtk */
+  color: #dcd7ba;      /* fujiWhite */
+}
+
+#workspaces { 
+  padding: 0 5px;
+}
+
+#workspaces button {
+  padding: 3px 6px;
+  background: none;
+  color: #727169; /* sumiInk4 */
+}
+
+/* Módulos */
+#pulseaudio {
+  color: #e6c384; /* carpYellow */
+}
+
+#custom-datetime {
+  color: #98bb6c; /* springGreen */
+  font-size: 13px;
+}
+
+#custom-spotify {
+  color: #98bb6c; /* springGreen */
+}
+
+#cpu, #memory, #pulseaudio, #clock, #battery, #backlight, #group-info, #custom-arrow-left. #custom-arrow-right {
+  color: #957fb8; /* oniViolet */
+  padding: 0 8px;
+  font-size: 13px;
+}
+
+#custom-current_app {
+  color: #7e9cd8; /* crystalBlue */
+}
+
+/* Tooltip */
+tooltip {
+  background-color: @theme_bg_color;  /* sumiInk0 */
+  color: #dcd7ba;             /* fujiWhite */
+  border: 1px solid #2a2a37;  /* sumiInk2 */
+  padding: 6px;
+  font-family: "Fira Code", monospace;
+  font-size: 12px;
+}
