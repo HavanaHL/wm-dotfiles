@@ -19,10 +19,9 @@
   - [**Alacritty**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/alacritty)
   - [**Dunst**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/dunst)
   - [**Fuzzel**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/fuzzel) 
-  - **Helix**
-  - **MangoWC**
-  - **Waybar**
+  - [**Helix**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/helix)
+  - [**Waybar**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/waybar)
   - [**Wayfire**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/wayfire)
-  - **Zellij**
+  - [**Zellij**](https://github.com/HavanaHL/wm-dotfiles/tree/main/Kanagawa/zellij)
 
 </details>
