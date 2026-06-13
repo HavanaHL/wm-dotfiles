@@ -5,8 +5,8 @@
 import = []
 live_config_reload = true
 
-[terminal]
-shell = { program = "zellij" }
+# [terminal]
+# shell = { program = "zellij" }
 
 [window]
 opacity = 1
@@ -15,7 +15,7 @@ dynamic_padding = true
 decorations = "full"
 
 [font]
-size = 12.0
+size = 11.0
 
 [font.normal]
 family = "VictorMono Nerd Font"
@@ -31,7 +31,7 @@ style = "SemiBold Italic"
 
 # Esquema de Cores Kanagawa Wave
 [colors.primary]
-background = "#1a1a1a"
+background = "#0f0f0f"
 foreground = "#dcd7ba"
 
 
