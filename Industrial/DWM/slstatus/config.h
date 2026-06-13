@@ -1,6 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* interval between updates (in ms) */
+// #include <utility>
 const unsigned int interval = 5000;
 
 /* text to show if no value can be retrieved */
@@ -69,6 +70,7 @@ static const struct arg args[] = {
 	{ cpu_perc,  "CPU: %s%%",            NULL },
 	{ ram_used,  " / RAM: %s",           NULL },
 	{ ram_total, "/%s",                  NULL },
-	{ battery_perc, " / BAT: %s",        "BAT1"},
+	{ swap_used,  " / SWP: %s",           NULL },
+	{ swap_total, "/%s",                  NULL },
 	{ datetime,  " / %s / dwm-6.6",      "%H:%M %m/%d" },
 };
